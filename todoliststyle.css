@@ -1,0 +1,26 @@
+div{
+    background-color:peachpuff;
+}
+
+
+
+
+
+body{
+    
+        
+        
+        background-color: red;
+        animation-name: example;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+      }
+      
+      @keyframes example {
+        from {background-color: red;}
+        to {background-color: yellow;}
+      }
+#j{
+    color: purple;
+    text-align: center;
+}
